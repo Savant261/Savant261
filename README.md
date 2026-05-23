@@ -1,7 +1,5 @@
-<!-- HEADER -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=galaxy&height=280&text=YOUR%20NAME&fontSize=70&color=gradient&customColorList=0,2,2,5,30&fontColor=ffffff&animation=fadeIn&desc=ML%20Engineer%20%7C%20Building%20Systems%20That%20Think&descSize=20&descAlignY=65&stroke=ffffff&strokeWidth=1" width="100%" />
-</div>
+<img width="480" height="270" alt="giphy" src="https://github.com/user-attachments/assets/8d251492-ea49-45ba-b045-27dc22644f7f" />
+
 
 <!-- TYPING ANIMATION -->
 <div align="center">
