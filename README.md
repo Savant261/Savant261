@@ -1,6 +1,13 @@
 
 
+<div align = "center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=4000&size=20&pause=1000&color=1FF782&width=435&lines=Full+Stack+ML+Engineer;Open+Source+Contributor;Love+to+build+and+learn+new+tech;Curious+to+read+facts+about+space)](https://git.io/typing-svg)
 
+</div>
+
+<br>
+<br>
 
 
 ## 💫 About Me:
@@ -8,7 +15,7 @@
 
 
 <br>
-<br>
+<hr>
 
 
 
@@ -41,6 +48,8 @@
 
 </div>
 
+<br>
+<hr>
 
 ## 🛠 Tech Stack
 
@@ -75,6 +84,9 @@
 ---
 </div>
 
+<br>
+
+
 ## 🛸 Featured Projects
 
 <div align="center">
@@ -87,6 +99,9 @@
 | **[☄️ NASA Asteroid Profiler](https://github.com/Savant261/NASA-Asteroid-Profiller)** | End-to-end ML pipeline analyzing 40k+ NASA JPL records. Features a 94.8% accurate Random Forest Classifier for hazard detection, a tuned Regressor ($R^2 = 0.785$) for diameter prediction, and K-Means clustering for orbital family classification. | `Python` `sklearn` `Pandas` `Streamlit` `Numpy`|
 
 </div>
+
+<br>
+<hr>
 
 ## 📊 GitHub Stats
 
@@ -101,10 +116,11 @@
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Savant261&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" />
 
 <br>
+<hr>
 
----
 
 </div>
+
 
 ## 🏆 Trophies
 
@@ -114,9 +130,33 @@
 
 <br>
 
----
 
 </div>
+
+<br>
+<hr>
+
+
+## 🚀 Let's Connect & Build! 
+<br>
+
+<p align="center">
+  Whether you want to discuss machine learning architectures, debate the best plot twists in recent thriller novels, or collaborate on an open-source project—I'm always open to chatting.
+</p>
+
+<p align="center">
+  <a href="mailto:savantkumarj@gmail.com">📫 Drop me an email</a> • 
+  <a href="(https://www.linkedin.com/in/savant-kumar-jena-990b26283/)">👔 Connect on LinkedIn</a>
+</p>
+
+<p align="center">
+  <i>If you found any of my projects interesting or helpful, consider leaving a ⭐ on the repositories!</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
+</p>
+
 
 
 
