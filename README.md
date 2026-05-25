@@ -1,9 +1,45 @@
-# 💫 About Me:
+
+
+
+
+
+## 💫 About Me:
 🔭 I’m currently working on ResumeRadar - An AI based ATS Resume Screening and Analyzer Application<br>👯 I’m looking to collaborate on projects that revolve around Machine Learning<br>🤝 I’m looking for people who love to build and learn about new tech<br>🌱 I’m currently learning Docker and different Cloud technologies and services<br>💬 Ask me about space and astrophysics and watch me make your time worthwhile<br>⚡ Fun fact: I love predicting last twist endings in mystery and thriller books
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Savant Jena) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Savant Kumar Jena) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:savantkumarj@gmail.com) 
+<br>
+<br>
+
+
+
+## 🌐 Connect With Me
+
+<div align="center">
+<!-- Neon glow badges -->
+<a href="(https://www.linkedin.com/in/savant-kumar-jena-990b26283/)">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-00f5ff?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=050510&color=050510"/>
+</a>
+<a href="https://savant-kumar-jena.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Live-7c3aed?style=for-the-badge&logo=vercel&logoColor=a78bfa&labelColor=050510&color=050510"/>
+</a>
+<a href="mailto:savantkumarj@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Reach%20Me-ff4757?style=for-the-badge&logo=gmail&logoColor=ff6b81&labelColor=050510&color=050510"/>
+</a>
+<a href="https://github.com/Savant261">
+  <img src="https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=050510&color=050510"/>
+</a>
+<a href="https://leetcode.com/u/SAVANTKJ/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=050510&color=050510"/>
+</a>
+
+<br/><br/>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Savant261&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://img.shields.io/github/followers/Savant261?label=Followers&style=social"/>
+</p>
+
+</div>
 
 
 ## 🛠 Tech Stack
@@ -37,9 +73,26 @@
 <br>
 
 ---
+</div>
+
+## 🛸 Featured Projects
+
+<div align="center">
+
+| 🚀 Project | 💡 Description | 🛠️ Stack |
+|:---|:---|:---|
+| **[📄 ResumeRadar](https://github.com/Savant261/Resume-Radar)** | Intelligent ATS resume parser and matcher. Evaluates job descriptions against resumes using NLP, scoring relevance and extracting key skills. | `Python` `NLP` `React` `spacy` `FastAPI` |
+| **[🔒 SecureWork](https://github.com/Savant261/SecureWork)** | Zero-trust developer workspace environment. Implements end-to-end encrypted session logging, secure credential storage, and RBAC access controls. | `Django` `DjangoREST` `HTML` `JavaScript` `Supabase`|
+| **[🍳 ChefAssist](https://github.com/Savant261/Flames-2025-Project-ChefAssist)** | AI culinary companion and assistant that generates custom recipes from available ingredients. Uses Google Gemini to optimize for dietary restrictions and caloric goals. | `React` `MongoDB` `Express.js` `Node.js` |
+| **[☄️ NASA Asteroid Profiler](https://github.com/Savant261/NASA-Asteroid-Profiller)** | End-to-end ML pipeline analyzing 40k+ NASA JPL records. Features a 94.8% accurate Random Forest Classifier for hazard detection, a tuned Regressor ($R^2 = 0.785$) for diameter prediction, and K-Means clustering for orbital family classification. | `Python` `sklearn` `Pandas` `Streamlit` `Numpy`|
+
+</div>
 
 ## 📊 GitHub Stats
 
+
+<div align="center">
+  
 <img src="https://github-readme-stats.shion.dev/api?username=Savant261&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=Savant261&theme=aura&hide_border=true" width="49%" />
 
@@ -51,22 +104,19 @@
 
 ---
 
+</div>
+
 ## 🏆 Trophies
 
+<div align="center">
+  
 <img src="https://github-profile-trophy.vercel.app/?username=Savant261&theme=monokai&no-frame=true&no-bg=false&margin-w=6&column=7" />
 
 <br>
 
 ---
 
-## 🔝 Top Contributed Repos
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Savant261&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-
-<br>
-
----
-
-<img src="https://komarev.com/ghpvc/?username=Savant261&color=00dca0&style=flat-square&label=PROFILE+VIEWS" />
-
 </div>
+
+
+
