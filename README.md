@@ -1,6 +1,14 @@
-<div align="center">
+# 💫 About Me:
+🔭 I’m currently working on ResumeRadar - An AI based ATS Resume Screening and Analyzer Application<br>👯 I’m looking to collaborate on projects that revolve around Machine Learning<br>🤝 I’m looking for people who love to build and learn about new tech<br>🌱 I’m currently learning Docker and different Cloud technologies and services<br>💬 Ask me about space and astrophysics and watch me make your time worthwhile<br>⚡ Fun fact: I love predicting last twist endings in mystery and thriller books
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Savant Jena) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Savant Kumar Jena) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:savantkumarj@gmail.com) 
+
 
 ## 🛠 Tech Stack
+
+<div align="center">
 
 #### ◈ Languages
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/JavaScript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E" /> <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
